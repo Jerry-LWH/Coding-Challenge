@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-releases" />
+      <option name="name" value="Spring Releases" />
+      <option name="url" value="https://repo.spring.io/release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bsmx-maven-old-snapshots" />
+      <option name="name" value="bsmx-maven-old-snapshots" />
+      <option name="url" value="https://nexus3.hudsonmx.net/repository/bsmx-maven-old-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-release-server" />
+      <option name="name" value="nexus-release-server" />
+      <option name="url" value="https://nexus3.hudsonmx.net/repository/maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-snapshot-server" />
+      <option name="name" value="nexus-snapshot-server" />
+      <option name="url" value="https://nexus3.hudsonmx.net/repository/maven-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jcenter" />
+      <option name="name" value="jcenter" />
+      <option name="url" value="https://nexus3.hudsonmx.net/repository/jcenter/" />
+    </remote-repository>
+  </component>
+</project>
